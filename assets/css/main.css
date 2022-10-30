@@ -1,18 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-
-/*{*/
-/*    margin: 0*/
-/*;*/
-/*    padding: 0*/
-/*;*/
-/*    box-sizing: border-box*/
-/*;*/
-/*    font-family: 'Poppins', sans-serif*/
-/*;*/
-
-/*}*/
-
 :root {
     --black: rgb(24, 26, 27);
     --white: lightgrey;
@@ -21,7 +8,7 @@
 body {
     background-color: var(--black);
     color: lightgrey;
-    margin-top: 0
+    margin: 0
 }
 
 header {
